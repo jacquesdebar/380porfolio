@@ -25,8 +25,7 @@ Translates to roles such as:
 
 
 
-
-### 1/9: Systems _____
+### 1/9: What do analysts, product owners and PMs do?
 
 Systems that I used to register for INFO 380:
 * Course catalog
@@ -39,3 +38,8 @@ Improvements:
 * Map
 * Show visual diagram of when classes will/wont be offered
 * Waitlist system
+
+##### Agile development
+* Especially effective in fast-moving environments such as technology (shortfall of waterfall method)
+
+![Agile manifesto](https://learning.oreilly.com/library/view/agile-and-business/9781780173221/images/fig2-3.jpg)
